@@ -10,7 +10,7 @@ Hi there! I'm a passionate **Frontend Developer** focused on building user-frien
 - 🌱 Continuously learning new tools and frameworks to improve my development workflow.
 - 💡 Love turning complex UI challenges into elegant, intuitive solutions.
 - 🤝 Always open to collaboration and interesting web projects.
-- 📫 How to reach me: [your.email@example.com] or via [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [chandrasekharreddyyaraveda@gmail.com] or via [LinkedIn](https://www.linkedin.com/in/chandra-reddy-090254342)
 
 ---
 
@@ -24,7 +24,7 @@ Hi there! I'm a passionate **Frontend Developer** focused on building user-frien
 
 ## 📦 Projects
 
-### 🛒 [E-Commerce Store](https://github.com/yourusername/e-commerce-store)
+### 🛒 [E-Commerce Store](https://github.com/chandrareddy1817/Ecommerce-main)
 An online shopping platform with:
 
 - Product listings and filtering
@@ -36,16 +36,15 @@ An online shopping platform with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrareddy1817&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrareddy1817&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: chandrasekharreddyyaraveda@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandra-reddy-090254342)
 
 ---
 
