@@ -44,7 +44,7 @@ An online shopping platform with:
 ## 📫 Connect With Me
 
 - 📧 Email: chandrasekharreddyyaraveda@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chandra-reddy-090254342)
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/chandra-reddy-090254342)
 
 ---
 
