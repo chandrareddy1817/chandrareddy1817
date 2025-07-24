@@ -38,7 +38,7 @@ A modern shopping platform with:
 - Cart & checkout features
 - Responsive design using React, HTML, CSS, and JavaScript
 
-### 📉 [Customer Churn Analysis (Coming Soon)](https://github.com/chandrareddy1817)
+### 📉 [Sales-Order-PowerBI-Dashboard ](https://github.com/chandrareddy1817/Sales-Order-PowerBI-Dashboard)
 A data analytics project predicting telecom customer churn using:
 - Python (Pandas, Seaborn, Sklearn)
 - SQL for querying large datasets
