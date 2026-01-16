@@ -82,8 +82,8 @@ I am a detail-oriented and motivated **Data Analyst fresher** with a strong foun
 
 ## 🤝 Connect With Me
 - 📧 **Email:** chandrasekharreddyyaraveda@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com  
-- 💻 **GitHub:** https://github.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/chandra-reddy-090254342
+ 
 
 ---
 
